@@ -1,3 +1,5 @@
+// 출처 : https://github.com/WebDevSimplified/Face-Recognition-JavaScript
+
 const imageUpload = document.getElementById('imageUpload')
 
 Promise.all([
