@@ -9,4 +9,7 @@
 
 
 
+
+영상을 보고 Visual Studio Code를 사용하여 얼굴 인식 프로그램을 구현하였습니다.  
+
 출처 : https://github.com/WebDevSimplified/Face-Recognition-JavaScript
