@@ -3,11 +3,12 @@
 ## 1. JavaScript를 활용하여 화면 출력하기 
 
 ### html 코드 
+<html>
 <script defer src="rfile.js"></script>
     <input type='file' accept='image/*'
  onchange='openFile(event)'><br>
     <img id='imageUpload'>
-    
+    </html>
     
 ### js 코드 
 
