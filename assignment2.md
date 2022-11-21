@@ -3,15 +3,18 @@
 ## 1. JavaScript를 활용하여 화면 출력하기 
 
 ### html 코드 
-
+```
+<html>
 <script defer src="rfile.js"></script>
   <input type='file' accept='image/*'
  onchange='openFile(event)'><br>
   <img id='imageUpload'>
-
+</html>
+```
     
 ### js 코드 
 
+```
 var openFile = function(file) {
   var input = file.target;
   var reader = new FileReader();
@@ -22,6 +25,7 @@ var openFile = function(file) {
   };
   reader.readAsDataURL(input.files[0]);
 };
+```
 
 c드라이브 폴더에 html 파일과 js 파일을 만들어서 브라우저에서 사진을 입력받는 실습을 하였습니다. 
 
