@@ -64,6 +64,45 @@
 
 ![MeshStandardMaterial](https://github.com/Joon1899/assignment/assets/102898911/a8c45047-6b4c-4789-a806-9a54f5ff34c8)
 
+## 강의 6 재질 part3 
+
+### texture mapping 
+
+![texturemapping](https://github.com/Joon1899/assignment/assets/102898911/551de59c-6079-4db1-8889-0bc313138921)
+
+### Reapeat Wrapping 추가 
+
+![texturemapping RepeatWrapping 추가](https://github.com/Joon1899/assignment/assets/102898911/d5c48e56-c7c5-4bb5-ac68-5396a2fd0d98)
+
+### rotation 속성 적용 
+
+![rotation 속성 적용 ](https://github.com/Joon1899/assignment/assets/102898911/7dd96229-95fa-4f5d-98ba-217795871a64)
+
+### offset 값 적용 
+
+![offset 0,0](https://github.com/Joon1899/assignment/assets/102898911/f36b9835-b5d1-46a8-b2fb-d9c97cab6662)
+
+### magFilter, minFilter 적용 
+
+![margfilter_linearFilter_minFIlter_nearestMipMapLinearFilter](https://github.com/Joon1899/assignment/assets/102898911/e4e39f81-7f71-4f04-a7fc-5ce620459d9f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
