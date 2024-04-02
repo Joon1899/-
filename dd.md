@@ -120,6 +120,11 @@
 
 ![alphaMap](https://github.com/Joon1899/assignment/assets/102898911/141e7598-cc18-4127-8d02-87a46bd4291c)
 
+### lightMap 
+
+![lightMap](https://github.com/Joon1899/assignment/assets/102898911/aa37dfa3-40c0-4301-981c-3306bc87e4ad)
+
+
 
 ## 소감 
 
