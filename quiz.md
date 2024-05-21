@@ -57,6 +57,10 @@ draw(): 계속 반복 실행되는 함수로, 마우스 위치에 원을 그려�
 
 ​
 
+
+https://github.com/Joon1899/assignment/assets/102898911/75a37dd1-b45f-4d58-bd46-37f844a90a24
+
+
 ​
 
 ## 2. [ml5.js를 활용한 머신러닝 기초] 
@@ -218,6 +222,10 @@ draw(): 계속 반복 실행되는 함수로, 마우스 위치에 원을 그려�
 
 ​ 
 
+https://github.com/Joon1899/assignment/assets/102898911/fad1fbf2-db6b-4ed4-8e84-7e469b7662c7
+
+
+
 ## 4. [R3F(React Three Fiber)와 React 통합]
 
  ### 4-1) R3F의 특징 및 이점 설명
@@ -299,6 +307,12 @@ meshStandardMaterial: 큐브의 표면 재질을 정의한다. color 속성으�
 
 directionalLight: 특정 방향에서 비추는 빛을 설정한다. position 속성은 빛의 위치를 설정한다.
 
-RotatingBox: 앞서 정의한 큐브 컴포넌트를 추가합니다.
+RotatingBox: 앞서 정의한 큐브 컴포넌트를 추가한다.
 
-이 코드를 실행하면 웹 페이지에 오렌지 색상의 회전하는 큐브가 렌더링됩니다. Canvas 컴포넌트는 Three.js의 렌더링 컨텍스트를 제공하고, 그 안에 정의된 3D 객체들이 렌더링됩니다. RotatingBox 컴포넌트는 회전된 상태로 큐브를 렌더링하며, ambientLight와 directionalLight는 장면을 조명합니다.
+이 코드를 실행하면 웹 페이지에 오렌지 색상의 회전하는 큐브가 렌더링된다. Canvas 컴포넌트는 Three.js의 렌더링 컨텍스트를 제공하고, 그 안에 정의된 3D 객체들이 렌더링된다. RotatingBox 컴포넌트는 회전된 상태로 큐브를 렌더링하며, ambientLight와 directionalLight는 장면을 조명한다.
+
+
+
+https://github.com/Joon1899/assignment/assets/102898911/583a0d02-2105-48a5-ae56-e9b39b718ce6
+
+
