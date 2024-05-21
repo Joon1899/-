@@ -34,7 +34,8 @@
 
   
 
-``` function setup() {
+```
+function setup() {
 createCanvas(windowWidth, windowHeight);
 background(255);
 }
