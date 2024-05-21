@@ -34,7 +34,7 @@
 
   
 
-function setup() {
+``` function setup() {
 createCanvas(windowWidth, windowHeight);
 background(255);
 }
@@ -44,7 +44,7 @@ function draw() {
 fill(0);
 ellipse(mouseX, mouseY, 20, 20);
 }
- 
+ ``` 
 
 
 AI Graphics Quiz 시험 및 답안 제출 (이글의 답글로 (1)
@@ -159,7 +159,7 @@ draw(): 계속 반복 실행되는 함수로, 마우스 위치에 원을 그려�
  답 : 
 
  
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -203,6 +203,7 @@ draw(): 계속 반복 실행되는 함수로, 마우스 위치에 원을 그려�
   </script>
 </body>
 </html>
+```
  
  THREE.Scene()을 사용하여 장면을 생성한다.
 
@@ -257,7 +258,7 @@ draw(): 계속 반복 실행되는 함수로, 마우스 위치에 원을 그려�
 ​
 
 답 : 
-
+```
 // App.js
 import React from 'react';
 import { Canvas } from '@react-three/fiber';
@@ -283,7 +284,7 @@ function App() {
 }
 
 export default App;
- 
+ ```
  
 코드 설명 : 
 
